@@ -1,4 +1,4 @@
-[![MasterHead]((https://media.licdn.com/dms/image/D4D16AQG6T92gjjtBKg/profile-displaybackgroundimage-shrink_350_1400/0/1674153278110?e=1694044800&v=beta&t=zr4ocpFETLMm0fzf01dNZDsQgzzfajZuJSEtGUgWh70)
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQG6T92gjjtBKg/profile-displaybackgroundimage-shrink_350_1400/0/1674153278110?e=1694044800&v=beta&t=zr4ocpFETLMm0fzf01dNZDsQgzzfajZuJSEtGUgWh70)
 <h1 align="center">Hi 👋, I'm Goksel BINGOL</h1>
 <h3 align="center">A passionate artificial intelligence developer from Turkey</h3>
 
