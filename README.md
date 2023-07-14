@@ -1,4 +1,4 @@
-[![MasterHead]([https://www.istockphoto.com/tr/foto%C4%9Fraflar/yapay-zeka](https://media.istockphoto.com/id/1452604857/tr/foto%C4%9Fraf/businessman-touching-the-brain-working-of-artificial-intelligence-automation-predictive.jpg?s=612x612&w=0&k=20&c=WTKgDne7V_AuiC5JjaUF-50fABjpvIU_bKo9EmhD7rM=))
+[![MasterHead](https://www.istockphoto.com/tr/foto%C4%9Fraflar/yapay-zeka](https://media.istockphoto.com/id/1452604857/tr/foto%C4%9Fraf/businessman-touching-the-brain-working-of-artificial-intelligence-automation-predictive.jpg?s=612x612&w=0&k=20&c=WTKgDne7V_AuiC5JjaUF-50fABjpvIU_bKo9EmhD7rM=)
 <h1 align="center">Hi 👋, I'm Goksel BINGOL</h1>
 <h3 align="center">A passionate artificial intelligence developer from Turkey</h3>
 
