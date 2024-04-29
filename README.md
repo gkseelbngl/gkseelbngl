@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **artificial intelligence**
 
-- 📫 How to reach me **gksl_bngl34@icloud.com**
+- 📫 How to reach me **gkseelbngl34@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
